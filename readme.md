@@ -1,4 +1,4 @@
-<h2>react-redux-starter-kit</h2>
+<h3>react-redux-starter-kit</h3>
 <hr>
 <p>Starter kit for react js based apps, using redux as store & basic webpack bootstraped.</p>
 <h3>Features:</h3>
@@ -15,4 +15,10 @@
 </ul>
 <hr>
 <h3>Usage:</h3>
-<p>Run npm start & hit localhost:3000/index.html</p>
+
+```
+$> npm i
+$> npm run watch
+$> npm run start
+```
+<p>Hit http://localhost:3000/index.html</p>
